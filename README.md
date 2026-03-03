@@ -1,2 +1,15 @@
-# UTN-Software-Development-Career
-My programming journey at UTN FRBB.
+# Software Development Journey - UTN FRBB 🇦🇷
+
+¡Hola! Soy **Santiago Sabadini**, estudiante de la **Tecnicatura Universitaria en Programación**. 
+Este repositorio centraliza mi formación académica y mis proyectos personales enfocados en **Python** y **C#**.
+
+### 📂 Estructura del Repositorio
+* **`Admission-Course-2026`**: Lógica, matemática y algoritmos iniciales (Python).
+* **`Personal-Projects`**: Desarrollos independientes fuera de la currícula universitaria.
+
+### 🚀 Proyectos Destacados
+* **Sabadino Music Bot**: Bot de música para Discord (Python).
+* **Pool Volume Calculator**: Lógica aplicada para cálculos de volumen.
+
+---
+*Enfocado en adquirir experiencia sólida para proyectos nacionales e internacionales*.
