@@ -5,7 +5,7 @@ Este repositorio centraliza mi formación académica y mis proyectos personales 
 
 ### 📂 Estructura del Repositorio
 * **`Admission-Course-2026`**: Lógica, matemática y algoritmos iniciales (Python).
-* **`Personal-Projects`**: Desarrollos independientes fuera de la currícula universitaria.
+* ** Mis proyectos estan en sus propios repositorios.**
 
 ### 🚀 Proyectos Destacados
 * **Sabadino Music Bot**: Bot de música para Discord (Python).
